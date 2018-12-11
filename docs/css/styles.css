@@ -1,0 +1,76 @@
+#wrapper {
+    width: 960px;
+    background-color: lightsteelblue;
+}
+
+.marginCenter {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.displayInline {
+    display: inline;
+}
+
+.sqrPadding {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#banner {
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 100px;
+}
+
+#top {
+    height: 50px;
+    line-height: 50px;
+}
+
+.clearMargin {
+    margin: 10px;
+}
+
+.clearPadding {
+    padding: 10px;
+}
+
+.clearFix {
+    clear: both;
+}
+
+.grSmall {
+    width: 325px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.grBig {
+    width: 595px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.grFont {
+    line-height: 30px;
+    font-size: 50px;
+}
+
+.Helvetica {
+    font-family: "sans-serif";
+}
+
+.alignCenter {
+    text-align: center;
+}
+
+.textRight {
+    text-align: right;
+}
+
+.footer {
+    background-color: lightsteelblue;
+    color: white;
+    text-align: center;
+}
